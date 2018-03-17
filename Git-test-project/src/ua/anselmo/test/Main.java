@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Hello fron Git Hub!");
 		System.out.println("Change 1");
 		System.out.println("Change 2");
+		System.out.println("Change 3");
 
 	}
 
